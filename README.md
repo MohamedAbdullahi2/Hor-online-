@@ -31,6 +31,7 @@ Here are some guidelines for installing the project on your local machine:
 
 ## **_Link URL to deployed app on GitHub_**
 
+https://mohamedabdullahi2.github.io/Hor-online-/
 
 ## **_Link URL to GitHub Repository_**
 
